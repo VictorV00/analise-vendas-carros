@@ -2,7 +2,7 @@
 
 Este projeto realiza uma análise descritiva de um conjunto de dados sobre vendas de carros usados para extrair insights sobre o mercado, incluindo estratégias de preços por fabricante e o impacto de características como quilometragem e tipo de combustível no valor dos veículos.
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo principal foi praticar o processo de análise de dados do início ao fim, desde a limpeza e tratamento dos dados até a geração de conclusões de negócio. As principais questões investigadas foram:
 
@@ -10,7 +10,7 @@ O objetivo principal foi praticar o processo de análise de dados do início ao 
 * Qual a relação entre a quilometragem de um carro e seu preço de revenda?
 * Como o tipo de combustível (Gasolina, Diesel, Híbrido) influencia o preço médio e a popularidade dos veículos?
 
-## 📁 Dataset
+## Dataset
 
 O dataset utilizado, `car_sales_data.csv`, contém informações sobre milhares de vendas de carros, com as seguintes colunas principais:
 
@@ -20,14 +20,14 @@ O dataset utilizado, `car_sales_data.csv`, contém informações sobre milhares 
 * `Fuel type`: O tipo de combustível.
 * `Price`: O preço de venda.
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 * **Linguagem:** Python
 * **Bibliotecas:**
     * **Pandas:** Para manipulação, limpeza e análise dos dados.
     * **Matplotlib / Seaborn:** Para a criação das visualizações gráficas.
 
-## 💡 Principais Insights e Conclusões
+##Principais Insights e Conclusões
 
 Após a análise dos dados, chegamos às seguintes conclusões principais:
 
