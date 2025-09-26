@@ -23,8 +23,8 @@ Após a análise dos dados, chegamos às seguintes conclusões principais:
 
 ### 1. Estratégia de Mercado: Volume vs. Valor
 A análise revelou duas estratégias de mercado distintas entre as marcas mais populares:
-* **Toyota** possui a maior receita total de vendas, sendo 12.77% maior que a da Ford e 16.49% maior que a da VW.
-* Isso ocorre mesmo com a Ford e a VW vendendo um volume maior de carros. A conclusão é que a Toyota aposta em um **preço médio por veículo mais alto**, focando em maior valor por unidade, enquanto as concorrentes focam em maior volume de vendas.
+* Toyota possui a maior receita total de vendas, sendo 12.77% maior que a da Ford e 16.49% maior que a da VW.
+* Isso ocorre mesmo com a Ford e a VW vendendo um volume maior de carros. A conclusão é que a Toyota aposta em um preço médio por veículo mais alto, focando em maior valor por unidade, enquanto as concorrentes focam em maior volume de vendas.
 * Marcas como BMW e Porsche operam em um segmento de luxo, com alto preço médio e baixo volume de vendas.
 
 ### 2. Depreciação por Uso
