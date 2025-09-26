@@ -10,16 +10,6 @@ O objetivo principal foi praticar o processo de análise de dados do início ao 
 * Qual a relação entre a quilometragem de um carro e seu preço de revenda?
 * Como o tipo de combustível (Gasolina, Diesel, Híbrido) influencia o preço médio e a popularidade dos veículos?
 
-## Dataset
-
-O dataset utilizado, `car_sales_data.csv`, contém informações sobre milhares de vendas de carros, com as seguintes colunas principais:
-
-* `Manufacturer`: O fabricante do carro (ex: Ford, Toyota).
-* `Year of manufacture`: O ano de fabricação.
-* `Mileage`: A quilometragem total do veículo.
-* `Fuel type`: O tipo de combustível.
-* `Price`: O preço de venda.
-
 ## Ferramentas Utilizadas
 
 * **Linguagem:** Python
