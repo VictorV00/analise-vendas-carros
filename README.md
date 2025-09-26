@@ -38,7 +38,7 @@ A análise revelou duas estratégias de mercado distintas entre as marcas mais p
 * Marcas como BMW e Porsche operam em um segmento de luxo, com alto preço médio e baixo volume de vendas.
 
 ### 2. Depreciação por Uso
-Conforme o esperado, a análise confirmou uma forte **correlação negativa entre a quilometragem e o preço**. Gráficos de dispersão mostraram claramente que, quanto mais um carro é usado (maior `Mileage`), menor é o seu valor de revenda.
+Conforme o esperado, a análise confirmou uma forte correlação negativa entre a quilometragem e o preço. Gráficos de dispersão mostraram claramente que, quanto mais um carro é usado , menor é o seu valor de revenda.
 
 ### 3. Preço e Popularidade por Tipo de Combustível
 Inicialmente, o valor total de vendas sugeria que os carros a gasolina eram os mais valiosos. No entanto, a análise do preço médio revelou uma história diferente:
