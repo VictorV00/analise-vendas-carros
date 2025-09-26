@@ -17,7 +17,7 @@ O objetivo principal foi praticar o processo de análise de dados do início ao 
     * **Pandas:** Para manipulação, limpeza e análise dos dados.
     * **Matplotlib / Seaborn:** Para a criação das visualizações gráficas.
 
-##Principais Insights e Conclusões
+## Principais Insights e Conclusões
 
 Após a análise dos dados, chegamos às seguintes conclusões principais:
 
@@ -32,6 +32,6 @@ Conforme o esperado, a análise confirmou uma forte correlação negativa entre 
 
 ### 3. Preço e Popularidade por Tipo de Combustível
 Inicialmente, o valor total de vendas sugeria que os carros a gasolina eram os mais valiosos. No entanto, a análise do preço médio revelou uma história diferente:
-* Os carros **Híbridos são, em média, os mais caros**.
+* Os carros Híbridos são, em média, os mais caros.
 * Seguidos pelos carros a Gasolina (Petrol) e, por último, os a Diesel.
 * A conclusão é que o alto preço dos veículos híbridos é uma provável causa para que eles sejam os menos vendidos em volume, apesar de seu valor unitário elevado.
