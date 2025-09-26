@@ -33,9 +33,9 @@ Após a análise dos dados, chegamos às seguintes conclusões principais:
 
 ### 1. Estratégia de Mercado: Volume vs. Valor
 A análise revelou duas estratégias de mercado distintas entre as marcas mais populares:
-* **Toyota** possui a maior receita total de vendas, sendo **12.77%** maior que a da Ford e **16.49%** maior que a da VW.
-* Isso ocorre mesmo com a **Ford** e a **VW** vendendo um volume maior de carros. A conclusão é que a Toyota aposta em um **preço médio por veículo mais alto**, focando em maior valor por unidade, enquanto as concorrentes focam em maior volume de vendas.
-* Marcas como **BMW** e **Porsche** operam em um segmento de luxo, com alto preço médio e baixo volume de vendas.
+* **Toyota** possui a maior receita total de vendas, sendo 12.77% maior que a da Ford e 16.49% maior que a da VW.
+* Isso ocorre mesmo com a Ford e a VW vendendo um volume maior de carros. A conclusão é que a Toyota aposta em um **preço médio por veículo mais alto**, focando em maior valor por unidade, enquanto as concorrentes focam em maior volume de vendas.
+* Marcas como BMW e Porsche operam em um segmento de luxo, com alto preço médio e baixo volume de vendas.
 
 ### 2. Depreciação por Uso
 Conforme o esperado, a análise confirmou uma forte **correlação negativa entre a quilometragem e o preço**. Gráficos de dispersão mostraram claramente que, quanto mais um carro é usado (maior `Mileage`), menor é o seu valor de revenda.
@@ -43,5 +43,5 @@ Conforme o esperado, a análise confirmou uma forte **correlação negativa entr
 ### 3. Preço e Popularidade por Tipo de Combustível
 Inicialmente, o valor total de vendas sugeria que os carros a gasolina eram os mais valiosos. No entanto, a análise do preço médio revelou uma história diferente:
 * Os carros **Híbridos são, em média, os mais caros**.
-* Seguidos pelos carros a **Gasolina (Petrol)** e, por último, os a **Diesel**.
-* A conclusão é que o alto preço dos veículos híbridos é uma provável causa para que eles sejam os **menos vendidos em volume**, apesar de seu valor unitário elevado.
+* Seguidos pelos carros a Gasolina (Petrol) e, por último, os a Diesel.
+* A conclusão é que o alto preço dos veículos híbridos é uma provável causa para que eles sejam os menos vendidos em volume, apesar de seu valor unitário elevado.
